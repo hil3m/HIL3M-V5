@@ -25,7 +25,7 @@
             "NEED_PLUGIN": "```Lütfen bir Plugin giriniz! Örnek: .plugin test```",
             "NOT_FOUND_PLUGIN": "```Böyle bir plugin belki yüklediniz, belki de yüklemediniz. Ama şu an olmadığı kesin.```",
             "DELETED": "*✅ Modül başarıyla silindi!*",
-            "WARN": "Pluginleri sadece t.me/remasterplugin kanalından alın.",
+            "WARN": "Pluginleri sadece melihozdogru tarafından alın.",
             "PVTNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 H I L 3 M Pʀɪᴠᴀᴛᴇ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝",
             "PUBNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 H I L 3 M Pᴜʙʟɪᴄ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
         },
@@ -103,7 +103,7 @@
             "RESTART_MSG": "```HIL3M Yeniden Başlatılıyor...```",
             "SHUTDOWN_DESC": "WhatsAsena'yı kapatır.",
             "SHUTDOWN_MSG": "*Belki birgün tekrar görüşebiliriz..\nHoşcakal Sahip..*\n```HIL3M Kapatılıyor... ⛔```",
-            "DYNO_DESC": "Check heroku dyno usage",
+            "DYNO_DESC": "Heroku dyno kullanımı kontrol eder.",
             "DYNO_TOTAL": "```Toplam Kota```",
             "DYNO_USED": "```Kullanılan kota```",
             "PERCENTAGE": "```Yüzde```",
@@ -172,7 +172,7 @@
         },
         "profile": {
             "KICKME_DESC": "Yazdığınız gruptan sizi çıkarır.",
-            "KICKME": "```Güle güle. Ben gidiyorum 🤠```",
+            "KICKME": "```HIL3M ayrılıyor... 🤠```",
             "PP_DESC": "Yanıt verdiğiniz fotoğrafı profil fotoğrafınız yapar.",
             "NEED_PHOTO": "*Bana bir fotoğraf ver!*",
             "PPING": "```Profil fotoğrafı yapılıyor...```",
